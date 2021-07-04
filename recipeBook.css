@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+.jnavbar{
+    background-color: rgb(107, 32, 177);
+}
+
+.jsearchcontainer{
+    background-color: rgb(46, 45, 45);
+}
+.jsearch{
+    border-radius: 0;
+}
+
+.back{
+    z-index: 2;
+}
+
+.invisible{
+    display: none;
+}
+
+.violetText{
+    color:  rgb(107, 32, 177);
+}
